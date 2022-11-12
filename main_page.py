@@ -9,12 +9,10 @@ import sv_ttk
 
 from about_page import *
 from cancel_page import *
-from contact_page import *
 from feedback_page import *
 from services_page import *
 from show_booking import *
 from payment_page import *
-from contact_page import *
 
 conn = sqlite3.Connection("example.db")
 
